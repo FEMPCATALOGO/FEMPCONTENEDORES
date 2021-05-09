@@ -29,7 +29,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Medio ambiente | Innexistente |  *[Repositorio](https://github.com/opencitydata/medio-ambiente-puntos-limpios-contenedores)*   |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-puntos-limpios-contenedores/issues)*   | Puntos Limpios y contenedores (Residuos solidos, Aceite, Papel, Pilas, Plasticos, Botellas, Ropa, Papeleras).  |  |  |  |   |  |
+| Medio ambiente | Inexistente |  *[Repositorio](https://github.com/opencitydata/medio-ambiente-puntos-limpios-contenedores)*   |  *[Generar issue](https://github.com/opencitydata/medio-ambiente-puntos-limpios-contenedores/issues)*   | Puntos Limpios y contenedores (Residuos solidos, Aceite, Papel, Pilas, Plasticos, Botellas, Ropa, Papeleras).  |  |  |  |   |  |
  
  
   
